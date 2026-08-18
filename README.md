@@ -20,4 +20,6 @@ A simple, lightweight web application for managing your daily shopping needs. Bu
 * **Department:** Anatomy 
 * **Faculty:** Basic medical science
 * **Level:** 300Level
+* **Group 5 project 6:**
+* **ICT INNOVATION PROJECT:**
 * 
