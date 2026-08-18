@@ -13,3 +13,9 @@ A simple, lightweight web application for managing your daily shopping needs. Bu
 1. Clone or download this repository.
 2. Open the project folder in VS Code.
 3. Open index.html using Live Server to view it in your browser.
+
+4. ### Author Details
+* **Name:** Alumona Bartholomew Chijioke
+* **Registration Number:** [2023030211085]
+* **Department:** Anatomy 
+* 
