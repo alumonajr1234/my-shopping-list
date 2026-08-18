@@ -18,4 +18,6 @@ A simple, lightweight web application for managing your daily shopping needs. Bu
 * **Name:** Alumona Bartholomew Chijioke
 * **Registration Number:** [2023030211085]
 * **Department:** Anatomy 
+* **Faculty:** Basic medical science
+* **Level:** 300Level
 * 
