@@ -1,4 +1,5 @@
 # Shopping List Application
+**Live Demo:** https://alumonajr1234.github.io/my-shopping-list/
 
 A simple, lightweight web application for managing your daily shopping needs. Built with HTML, CSS, and JavaScript.
 
@@ -22,4 +23,5 @@ A simple, lightweight web application for managing your daily shopping needs. Bu
 * **Level:** 300Level
 * **Group 5 project 6:**
 * **ICT INNOVATION PROJECT:**
-* 
+
+* **
